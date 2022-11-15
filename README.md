@@ -13,6 +13,7 @@ Web3js 中文网: http://web3js.cn
 - 🌱 熟悉 Dapp 开发, 不接 Defi
 - 👯 对 Substrate 有一定了解
 - 🤔 对零知识证明有一定研究
+- 📫 对 Lua 解释器源码有一定研究, 并对 EVM 有初步认识
 
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
