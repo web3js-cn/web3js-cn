@@ -2,7 +2,10 @@
 
 ```bat
 广东人, 坐标中国澳门, 热爱 Rust、C++、Js
+
 Web3js 中文网: http://web3js.cn
+Web3js 中文网 - 香港站: http://web3js.hk
+Web3js 中文网 - 英国站: http://web3js.uk
 
 微信: web3js_cn
 推特: web3js_cn
